@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ASG_2_multipleButton</string>
+    <string name="app_name">Assignment 2</string>
+    <string name="textQuestion">Delhi is the capital of India</string>
+    <string name="textTrue">TRUE</string>
+    <string name="textFalse">FALSE</string>
+    <string name="textAns">ANSWER</string>
 </resources>
